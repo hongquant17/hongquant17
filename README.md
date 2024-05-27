@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
 <h3 align="center">An enthusiast with a passion for technology</h3>
 
-- 🔭 I’m currently working in the field of **Computer Vision.**
+- 🌱 I’m currently pursuing my Bachelor's Degree in Information Technology at VNU-UET.
 
-- 🌱 I’m currently pursuing my **Bachelor's Degree in Information Technology at VNU-UET.**
+- 🔭 I’m currently working in the field of Computer Vision.
 
-- 💬 Ask me **anything about my projects or new opportunities.**
+- 💬 Ask me anything about my projects or new opportunities.
 
-- ⚡ Fun fact **Astronomy intrigues me.**
+- ⚡ Fun fact: **Astronomy 🌌 intrigues me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
