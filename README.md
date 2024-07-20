@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently pursuing my Bachelor's Degree in Information Technology at VNU-UET.
 
-- 🔭 I’m currently working in the field of Computer Vision.
+- 🔭 I’m currently working in the field of High Performance Computing.
 
 - 💬 Ask me anything about my projects or new opportunities.
 
